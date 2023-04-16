@@ -1,4 +1,4 @@
 # Resume
 
-![Chandra-Prakash-Dhaker-Resume]()
-![Screenshot (871)](https://user-images.githubusercontent.com/97527158/232284558-a7d484fa-913c-4f81-9a2f-595e2102a94a.png)
+![Chandra-Prakash-Dhaker-Resume]
+![Screenshot (872)](https://user-images.githubusercontent.com/97527158/232284850-f56d72aa-49cd-4fe8-9a15-ca854cd6789b.png)

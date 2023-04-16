@@ -1,5 +1,3 @@
 # Resume
 
-
-
-![Screenshot (874)](https://user-images.githubusercontent.com/97527158/232286974-5c4fd707-92a7-45b3-b1b3-f86b8abc4493.png)
+![Screenshot (873)](https://user-images.githubusercontent.com/97527158/232287063-cbf9b60b-7862-42ab-ab36-0367028a32b1.png)
